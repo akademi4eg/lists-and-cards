@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cardsList id="12" lang1="ru" lang2="es">
+	<name>Тестовый список 2</name>
+	<card>
+		<side1>человек</side1>
+		<side2>hombre</side2>
+	</card>
+	<card>
+		<side1>газета</side1>
+		<side2>periodico</side2>
+	</card>
+	<card>
+		<side1>стул</side1>
+		<side2>silla</side2>
+	</card>
+	<card>
+		<side1>дом</side1>
+		<side2>casa</side2>
+	</card>
+</cardsList>

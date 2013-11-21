@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cardsList id="1" lang1="ru" lang2="en">
+	<name>Тестовый список</name>
+	<card>
+		<side1>большой</side1>
+		<side2>big</side2>
+	</card>
+	<card>
+		<side1>шляпа</side1>
+		<side2>hat</side2>
+	</card>
+	<card>
+		<side1>картошка</side1>
+		<side2>potato</side2>
+	</card>
+	<card>
+		<side1>стол</side1>
+		<side2>table</side2>
+	</card>
+	<card>
+		<side1>нейронная сеть</side1>
+		<side2>neural network</side2>
+	</card>
+	<card>
+		<side1>знание</side1>
+		<side2>knowledge</side2>
+	</card>
+</cardsList>
