@@ -14,7 +14,9 @@ Main features:
 Note on translations.
 By default current locale is used to get proper translation. You can change translation by passing locale in arguments.
 For example, for en_US locale call:
-java -jar lac-0.5.0.jar en US
+
+java -jar lac.jar en US
+
 If needed, new translations can be added to i18n folder. Format is pretty straightforward. 
 
 If you have any questions, feel free to contact me via akadmei4eg-at-gmail-dot-com.
