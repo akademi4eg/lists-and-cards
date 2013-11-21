@@ -18,4 +18,5 @@ java -jar lac-0.5.0.jar en US
 If needed, new translations can be added to i18n folder. Format is pretty straightforward. 
 
 If you have any questions, feel free to contact me via akadmei4eg-at-gmail-dot-com.
+
 P.S. It initially has been written for my mom, so don't expect to much functionality from this app. ;)
